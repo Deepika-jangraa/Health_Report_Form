@@ -42,6 +42,15 @@ File Structure
 index.php: Contains the HTML form, PHP code for form submission, and database integration.
 style.css: CSS file for styling the form and page layout.
 
+Result
+
+![Screenshot (821)](https://github.com/Deepika-jangraa/Health_Report_Form/assets/135499747/b017a66b-45ae-4423-8fd3-1466582b86f6)
+
+![Screenshot (826)](https://github.com/Deepika-jangraa/Health_Report_Form/assets/135499747/cd9d41be-d724-4ee6-a2f0-affc458fa986)
+
+![Screenshot (822)](https://github.com/Deepika-jangraa/Health_Report_Form/assets/135499747/fd0f4e7c-73f2-475a-90a6-6b62aae76b21)
+
+
 License
 This project is licensed under the Deepika-jangra License.
 
